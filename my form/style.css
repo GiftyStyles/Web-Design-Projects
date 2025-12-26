@@ -1,0 +1,45 @@
+body, div{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    color: orangered;
+    border-width: 50px;
+    
+}
+div{
+    text-align: center;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
+P{
+    font-size: 20px;
+}
+.button{
+    background-color: orangered;
+    color: black;
+    border-radius: 6px;
+    border-color:orangered;
+    padding: 6px 12px;
+    cursor: pointer;
+}
+h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button:hover{
+    border-color: rgb(119, 119, 214);
+}
+input:hover{
+    border-color: rgb(119, 119, 214);
+}
+
+.l0{
+    padding: 3px 6px;
+
+}
+.le{
+    padding:3px 5px;
+}
